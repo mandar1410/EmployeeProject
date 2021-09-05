@@ -1,4 +1,4 @@
-package com.technoelevate.employee.Jdbc;
+package com.technoelevate.employee.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

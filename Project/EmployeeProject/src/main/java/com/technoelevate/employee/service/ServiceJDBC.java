@@ -7,7 +7,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.stereotype.Component;
 
 
-import com.technoelevate.employee.Jdbc.JDBCImp;
+import com.technoelevate.employee.jdbc.JDBCImp;
 import com.technoelevate.employee.dto.EmployeeDTO;
 
 @Component
